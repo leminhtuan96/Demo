@@ -19,9 +19,8 @@ const routes: Routes = [
       {
         path: "houses",
         component: HousesListComponent
-      }
-    ]
-
+      },
+    ],
   },
   {
     path:"login",
